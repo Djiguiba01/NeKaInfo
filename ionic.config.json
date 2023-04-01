@@ -1,0 +1,7 @@
+{
+  "name": "nekainfo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
